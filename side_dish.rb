@@ -3,6 +3,7 @@ class SideDish
     @dish = dish
     @price = price
   end
+  
   def info
     return "#{@dish} - $#{@price}"
   end
