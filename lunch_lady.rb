@@ -130,4 +130,8 @@ end
   # end
 
 food = LunchLady.new
+<<<<<<< HEAD
 food.main_menu
+=======
+food.main_menu
+>>>>>>> 0859c308efde8366d35a23b07c4e3a29f7b95ed1
